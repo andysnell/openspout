@@ -427,8 +427,8 @@ final class ReaderTest extends TestCase
     }
 
     /**
-     * @param null|\OpenSpout\Common\Helper\GlobalFunctionsHelper    $optionsManager
-     * @param null|\OpenSpout\Common\Manager\OptionsManagerInterface $globalFunctionsHelper
+     * @param null|\OpenSpout\Common\Manager\OptionsManagerInterface $optionsManager
+     * @param null|\OpenSpout\Common\Helper\GlobalFunctionsHelper    $globalFunctionsHelper
      *
      * @return ReaderInterface
      */
